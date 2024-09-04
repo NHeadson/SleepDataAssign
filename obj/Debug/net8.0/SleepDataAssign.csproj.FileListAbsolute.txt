@@ -1,0 +1,14 @@
+C:\Users\Nick's PC\OneDrive\Documents\WCTC(Current Work)\.NET DB Prog\Week3\Week3Assignment\SleepDataAssign\bin\Debug\net8.0\SleepDataAssign.exe
+C:\Users\Nick's PC\OneDrive\Documents\WCTC(Current Work)\.NET DB Prog\Week3\Week3Assignment\SleepDataAssign\bin\Debug\net8.0\SleepDataAssign.deps.json
+C:\Users\Nick's PC\OneDrive\Documents\WCTC(Current Work)\.NET DB Prog\Week3\Week3Assignment\SleepDataAssign\bin\Debug\net8.0\SleepDataAssign.runtimeconfig.json
+C:\Users\Nick's PC\OneDrive\Documents\WCTC(Current Work)\.NET DB Prog\Week3\Week3Assignment\SleepDataAssign\bin\Debug\net8.0\SleepDataAssign.dll
+C:\Users\Nick's PC\OneDrive\Documents\WCTC(Current Work)\.NET DB Prog\Week3\Week3Assignment\SleepDataAssign\bin\Debug\net8.0\SleepDataAssign.pdb
+C:\Users\Nick's PC\OneDrive\Documents\WCTC(Current Work)\.NET DB Prog\Week3\Week3Assignment\SleepDataAssign\obj\Debug\net8.0\SleepDataAssign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nick's PC\OneDrive\Documents\WCTC(Current Work)\.NET DB Prog\Week3\Week3Assignment\SleepDataAssign\obj\Debug\net8.0\SleepDataAssign.AssemblyInfoInputs.cache
+C:\Users\Nick's PC\OneDrive\Documents\WCTC(Current Work)\.NET DB Prog\Week3\Week3Assignment\SleepDataAssign\obj\Debug\net8.0\SleepDataAssign.AssemblyInfo.cs
+C:\Users\Nick's PC\OneDrive\Documents\WCTC(Current Work)\.NET DB Prog\Week3\Week3Assignment\SleepDataAssign\obj\Debug\net8.0\SleepDataAssign.csproj.CoreCompileInputs.cache
+C:\Users\Nick's PC\OneDrive\Documents\WCTC(Current Work)\.NET DB Prog\Week3\Week3Assignment\SleepDataAssign\obj\Debug\net8.0\SleepDataAssign.dll
+C:\Users\Nick's PC\OneDrive\Documents\WCTC(Current Work)\.NET DB Prog\Week3\Week3Assignment\SleepDataAssign\obj\Debug\net8.0\refint\SleepDataAssign.dll
+C:\Users\Nick's PC\OneDrive\Documents\WCTC(Current Work)\.NET DB Prog\Week3\Week3Assignment\SleepDataAssign\obj\Debug\net8.0\SleepDataAssign.pdb
+C:\Users\Nick's PC\OneDrive\Documents\WCTC(Current Work)\.NET DB Prog\Week3\Week3Assignment\SleepDataAssign\obj\Debug\net8.0\SleepDataAssign.genruntimeconfig.cache
+C:\Users\Nick's PC\OneDrive\Documents\WCTC(Current Work)\.NET DB Prog\Week3\Week3Assignment\SleepDataAssign\obj\Debug\net8.0\ref\SleepDataAssign.dll
