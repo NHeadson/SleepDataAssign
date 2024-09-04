@@ -12,3 +12,4 @@ C:\Users\Nick's PC\OneDrive\Documents\WCTC(Current Work)\.NET DB Prog\Week3\Week
 C:\Users\Nick's PC\OneDrive\Documents\WCTC(Current Work)\.NET DB Prog\Week3\Week3Assignment\SleepDataAssign\obj\Debug\net8.0\SleepDataAssign.pdb
 C:\Users\Nick's PC\OneDrive\Documents\WCTC(Current Work)\.NET DB Prog\Week3\Week3Assignment\SleepDataAssign\obj\Debug\net8.0\SleepDataAssign.genruntimeconfig.cache
 C:\Users\Nick's PC\OneDrive\Documents\WCTC(Current Work)\.NET DB Prog\Week3\Week3Assignment\SleepDataAssign\obj\Debug\net8.0\ref\SleepDataAssign.dll
+C:\Users\Nick's PC\OneDrive\Documents\WCTC(Current Work)\.NET DB Prog\Week3\Week3Assignment\SleepDataAssign\obj\Debug\net8.0\SleepDataAssign.sourcelink.json
