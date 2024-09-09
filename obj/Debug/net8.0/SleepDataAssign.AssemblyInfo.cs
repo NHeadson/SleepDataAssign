@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SleepDataAssign")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50586871b7c74687ba295683d0796497ada41899")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6561a46793843b324e7ec7e4b743735979e61b51")]
 [assembly: System.Reflection.AssemblyProductAttribute("SleepDataAssign")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SleepDataAssign")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
