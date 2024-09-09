@@ -13,3 +13,18 @@ C:\Users\Nick's PC\OneDrive\Documents\WCTC(Current Work)\.NET DB Prog\Week3\Week
 C:\Users\Nick's PC\OneDrive\Documents\WCTC(Current Work)\.NET DB Prog\Week3\Week3Assignment\SleepDataAssign\obj\Debug\net8.0\SleepDataAssign.genruntimeconfig.cache
 C:\Users\Nick's PC\OneDrive\Documents\WCTC(Current Work)\.NET DB Prog\Week3\Week3Assignment\SleepDataAssign\obj\Debug\net8.0\ref\SleepDataAssign.dll
 C:\Users\Nick's PC\OneDrive\Documents\WCTC(Current Work)\.NET DB Prog\Week3\Week3Assignment\SleepDataAssign\obj\Debug\net8.0\SleepDataAssign.sourcelink.json
+C:\Users\heads\OneDrive\Documents\WCTC(Current Work)\.NET DB Prog\Week3\Week3Assignment\SleepDataAssign\bin\Debug\net8.0\SleepDataAssign.exe
+C:\Users\heads\OneDrive\Documents\WCTC(Current Work)\.NET DB Prog\Week3\Week3Assignment\SleepDataAssign\bin\Debug\net8.0\SleepDataAssign.deps.json
+C:\Users\heads\OneDrive\Documents\WCTC(Current Work)\.NET DB Prog\Week3\Week3Assignment\SleepDataAssign\bin\Debug\net8.0\SleepDataAssign.runtimeconfig.json
+C:\Users\heads\OneDrive\Documents\WCTC(Current Work)\.NET DB Prog\Week3\Week3Assignment\SleepDataAssign\bin\Debug\net8.0\SleepDataAssign.dll
+C:\Users\heads\OneDrive\Documents\WCTC(Current Work)\.NET DB Prog\Week3\Week3Assignment\SleepDataAssign\bin\Debug\net8.0\SleepDataAssign.pdb
+C:\Users\heads\OneDrive\Documents\WCTC(Current Work)\.NET DB Prog\Week3\Week3Assignment\SleepDataAssign\obj\Debug\net8.0\SleepDataAssign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heads\OneDrive\Documents\WCTC(Current Work)\.NET DB Prog\Week3\Week3Assignment\SleepDataAssign\obj\Debug\net8.0\SleepDataAssign.AssemblyInfoInputs.cache
+C:\Users\heads\OneDrive\Documents\WCTC(Current Work)\.NET DB Prog\Week3\Week3Assignment\SleepDataAssign\obj\Debug\net8.0\SleepDataAssign.AssemblyInfo.cs
+C:\Users\heads\OneDrive\Documents\WCTC(Current Work)\.NET DB Prog\Week3\Week3Assignment\SleepDataAssign\obj\Debug\net8.0\SleepDataAssign.csproj.CoreCompileInputs.cache
+C:\Users\heads\OneDrive\Documents\WCTC(Current Work)\.NET DB Prog\Week3\Week3Assignment\SleepDataAssign\obj\Debug\net8.0\SleepDataAssign.sourcelink.json
+C:\Users\heads\OneDrive\Documents\WCTC(Current Work)\.NET DB Prog\Week3\Week3Assignment\SleepDataAssign\obj\Debug\net8.0\SleepDataAssign.dll
+C:\Users\heads\OneDrive\Documents\WCTC(Current Work)\.NET DB Prog\Week3\Week3Assignment\SleepDataAssign\obj\Debug\net8.0\refint\SleepDataAssign.dll
+C:\Users\heads\OneDrive\Documents\WCTC(Current Work)\.NET DB Prog\Week3\Week3Assignment\SleepDataAssign\obj\Debug\net8.0\SleepDataAssign.pdb
+C:\Users\heads\OneDrive\Documents\WCTC(Current Work)\.NET DB Prog\Week3\Week3Assignment\SleepDataAssign\obj\Debug\net8.0\SleepDataAssign.genruntimeconfig.cache
+C:\Users\heads\OneDrive\Documents\WCTC(Current Work)\.NET DB Prog\Week3\Week3Assignment\SleepDataAssign\obj\Debug\net8.0\ref\SleepDataAssign.dll

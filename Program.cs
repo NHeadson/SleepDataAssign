@@ -45,5 +45,27 @@ if (resp == "1")
 else if (resp == "2")
 {
     // TODO: parse data file
+    
+    {
+        string? line;
+        StreamReader sr = new StreamReader("data.txt");
+
+        while ((line = sr.ReadLine()) != null)
+        {
+            string[] parts = line.Split(',');
+            DateTime date = DateTime.Parse(parts[0]);
+
+            string[] hoursString = parts[1].Split('|');
+            int[] hours = Array.ConvertAll(hoursString, int.Parse);
+
+
+            Console.WriteLine($"\nWeek of {date:MMM}, {date:dd}, {date:yyyy}");
+            Console.WriteLine($"{" Su",-3}{" Mo", -3}{" Tu", -3}{" We", -3}{" Th", -3}{" Fr", -3}{" Sa", -3}{" Tot", -4} {" Avg", -4}");
+            Console.WriteLine($"{" --",-3}{" --", -3}{" --", -3}{" --", -3}{" --", -3}{" --", -3}{" --", -3}{" ---", -4} {" ---", -4}");
+            Console.WriteLine($"{hours[0], 3}{hours[1], 3}{hours[2], 3}{hours[3], 3}{hours[4], 3}{hours[5], 3}{hours[6], 3}{hours.Sum(), 4} {hours.Average(), 4:n1}");
+            
+        }
+    }
+    
 
 }
